@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Dell XPS 13 Plus",
+    "description": "Notebook Intel Core i7-1260P, 16GB RAM, 512 GB SSD, SD card, Fingerprint W11",
+    "price": 2000000,
+    "thumbnail": [],
+    "code": "DELLXPS139320",
+    "stock": 25,
+    "id": "1bd150ffadcd5baf0006"
+  },
+  {
+    "title": "Huawei MatePad Pro 11",
+    "description": "Tablet Kirin 9000 7nm, 512 SSD",
+    "price": 570000,
+    "thumbnail": [],
+    "code": "H34337",
+    "stock": 11,
+    "id": "36b4c188fb891a374e66"
+  },
+  {
+    "title": "Apple MacBook Pro 13",
+    "description": "Notebook macOS 8GB RAM, 256 GB SSD, color espacial",
+    "price": 2000000,
+    "thumbnail": [],
+    "code": "A2338",
+    "stock": 15,
+    "id": "11b7ae110b2707b9fcc0"
+  }
+]
